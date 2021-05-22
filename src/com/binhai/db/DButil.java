@@ -1,6 +1,8 @@
 package com.binhai.db;
 
-import java.sql.*;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
 
 //数据库链接工具
 public class DButil {
